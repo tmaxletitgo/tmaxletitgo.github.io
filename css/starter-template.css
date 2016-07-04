@@ -37,6 +37,11 @@ body {
     background-color:#c9ab1e;
     border-color:#c9ab1e;;
 }
+.buybutton:visited{
+    color: white;
+    background-color:#c9ab1e;
+    border-color:#c9ab1e;;
+}
 
 .idtext{
     font-size:1.3em;
