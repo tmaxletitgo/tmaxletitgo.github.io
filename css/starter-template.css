@@ -1,0 +1,38 @@
+body {
+    padding-top: 50px;
+    background-color: #444444;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.book-description{
+    font-family: 'Cardo', serif;
+    font-size: 2em;
+    color: white;
+}
+
+
+.booktitle{
+
+    background-color:#c9ab1e;
+    color: black;
+}
+
+
+.buybutton{
+    padding-top: 10px;
+    background-color: transparent;
+    border-color:#c9ab1e;
+}
+.buybutton:hover{
+    background-color:#c9ab1e;
+    border-color:#c9ab1e;;
+}
+
+.buybutton:active{
+    background-color:#c9ab1e;
+    border-color:#c9ab1e;;
+}
+
+
